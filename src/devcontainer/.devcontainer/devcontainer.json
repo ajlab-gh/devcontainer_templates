@@ -143,6 +143,7 @@
       "version": "3.12"
     },
     "ghcr.io/ajlab-gh/devcontainer_features/terrascan:latest": {},
+    "ghcr.io/ajlab-gh/devcontainer_features/gcloud-cli:latest": {},
     "ghcr.io/dhoeric/features/terraformer": {},
     "ghcr.io/dhoeric/features/tfsec": {},
     "ghcr.io/dhoeric/features/trivy": {},
