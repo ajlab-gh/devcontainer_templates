@@ -19,7 +19,7 @@ concurrency:
 jobs:
   build-and-push:
     timeout-minutes: 1440
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-xlarge
     permissions:
       contents: read
       packages: write
