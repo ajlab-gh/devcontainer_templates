@@ -89,6 +89,7 @@
       ]
     },
     "ghcr.io/devcontainers-contrib/features/argo-cd": {},
+    "ghcr.io/devcontainers/features/anaconda": {},
     "ghcr.io/devcontainers-contrib/features/aztfexport": {},
     "ghcr.io/devcontainers-contrib/features/black": {},
     "ghcr.io/devcontainers-contrib/features/checkov": {},
